@@ -2,7 +2,7 @@
   import { T, useFrame } from "@threlte/core";
   import { interactivity } from "@threlte/extras";
   import { spring } from "svelte/motion";
-  import { GridHelper, SphereGeometry } from "three";
+  //import { GridHelper, SphereGeometry } from "three";
   interactivity();
   const scale = spring(1);
 
